@@ -6,7 +6,7 @@ A blog website designed to provide ideas and resources for those who ar just get
 
 You need Node to build this site. In the root run:
 ```
-npm install
+npm instal
 ```
 
 ## build

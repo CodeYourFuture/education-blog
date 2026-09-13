@@ -1,4 +1,4 @@
-##Tips
+## Tips
 - Read the error message carefully
 - Search for the error online
 - Ask for help

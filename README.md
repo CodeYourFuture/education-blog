@@ -1,3 +1,7 @@
+## Tips
+- Read the error message carefully
+- Search for the error online
+- Ask for help
 ## Coding concepts
 
 A blog website designed to provide ideas and resources for those who ar just getting started on their coding journey!
